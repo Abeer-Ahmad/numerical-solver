@@ -1,6 +1,6 @@
 # numerical-solver
 A numerical UI-based system for solving both 'Root Finding' and 'System of Equations' problems, analyzing the behavior of different numerical methods. 
-## Main Feautures
+## Main Features
 - Interactive GUI that enables the user to enter equations containing different functions such as: {poly, exp, cos, sin...}.
 - In/Out file handling.
 - Plot of the used function behavior.
