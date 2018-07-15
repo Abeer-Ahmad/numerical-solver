@@ -8,14 +8,14 @@ A numerical UI-based system for solving both 'Root Finding' and 'System of Equat
 ### 1. Root Finder
 Implements and compares the following methods:  
 - Bisection
-- False-position
-- Fixed point
+- False Position
+- Fixed Point
 - Newton-Raphson
 - Secant
-- Bierge-Vieta
+- Birge-Vieta
 ### 2. System Solver
 Implements and compares the following methods:
-- Gaussian-elimination
+- Gaussian Elimination
 - LU decomposition
-- Gaussian-Jordan
+- Gauss-Jordan
 - Gauss-Seidel
